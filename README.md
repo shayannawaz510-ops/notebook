@@ -24,8 +24,7 @@ A clean, fast, and responsive notes-taking web app built with vanilla HTML, CSS,
 ## ⚙️ How to Run Locally
 1. Clone this repository
    ```bash
-   git clone https://github.com/your-username/notekeep.git
-   ```
+git clone https://github.com/shayannawaz510-ops/notebook.git   ```
 2. Open `index.html` in your browser — that's it, no build step required!
 
 ## 📂 Project Structure
@@ -44,4 +43,4 @@ notekeep/
 - Dark mode toggle
 
 ## 👤 Author
-[Your Name] — [Your LinkedIn/Portfolio link]
+[Shayan Nawaz] — [www.linkedin.com/in/shayan-nawaz-35b2a7406]
