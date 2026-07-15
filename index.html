@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>NoteKeep — Simple Notes App</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header class="navbar">
+    <h1>📝 NoteKeep</h1>
+    <p>A clean, fast notes app to capture your ideas</p>
+  </header>
+
+  <main class="container">
+    <section class="add-note">
+      <input type="text" id="noteTitle" placeholder="Note title...">
+      <textarea id="noteContent" placeholder="Write your note here..."></textarea>
+      <button id="addBtn">➕ Add Note</button>
+    </section>
+
+    <section class="notes-toolbar">
+      <input type="text" id="searchInput" placeholder="🔍 Search notes...">
+      <span id="noteCount">0 notes</span>
+    </section>
+
+    <section class="notes-grid" id="notesGrid">
+      <!-- Notes will be rendered here by JS -->
+    </section>
+
+    <p id="emptyState" class="empty-state">No notes yet. Add your first note above! ✨</p>
+  </main>
+
+  <footer>
+    <p>Built with HTML, CSS & JavaScript · <a href="#">GitHub</a></p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
