@@ -3,7 +3,7 @@
 A clean, fast, and responsive notes-taking web app built with vanilla HTML, CSS, and JavaScript. Create, search, edit, and delete notes — all saved locally in your browser.
 
 ## 🚀 Live Demo
-[Add your live link here after deploying]
+[https://funny-sunshine-7d8d00.netlify.app]
 
 ## ✨ Features
 - ➕ Add new notes with a title and content
